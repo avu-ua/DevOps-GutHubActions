@@ -1,3 +1,5 @@
+[![Python application](https://github.com/avu-ua/DevOps-GutHubActions/actions/workflows/python-publish.yml/badge.svg)](https://github.com/avu-ua/DevOps-GutHubActions/actions/workflows/python-publish.yml)
+
 # DevOps-GutHubActions
 Repository to test / practice Github Actions CI / CD
 
